@@ -1,0 +1,27 @@
+.androxus-card .card-body{background-color:lightgreen !important; }
+.androxus-card .list-group-item {background-color: lightgreen;}
+
+.jenos-card .card-body {background-color: lightgray;}
+.jenos-card .list-group-item {background-color: lightgray;}
+
+.atlas-card .card-body {background-color:lightblue;}
+.atlas-card .list-group-item {background-color: lightblue;}
+
+.imani-card .card-body {background-color: rgb(238, 238, 100);}
+.imani-card .list-group-item {background-color: rgb(238, 238, 100);}
+
+.androxus-build .card-body { background-color: lightgreen ; }
+.jenos-build .card-body { background-color: lightgray ; }
+.atlas-build .card-body { background-color: lightblue ; }
+.imani-build .card-body { background-color: rgb(238, 238, 100) ; }
+
+
+
+
+.container {color: whitew;}
+
+
+.character1 {color: rgb(35, 117, 35);}
+.character2 {color: darkgray;}
+.character3 {color: lightblue}
+.character4 {color: rgb(212, 212, 36)}
